@@ -1,0 +1,91 @@
+<li
+                      style="
+                        margin: 0;
+                        padding: 0;
+                        box-sizing: border-box;
+                        font-family: sans-serif;
+                        line-height: 160%;
+                        text-align: justify;
+                        font-size: 16px;
+                        margin-left: 36px;
+                        text-justify: inter-word;
+                      "
+                    >
+                      Your company would get a huge platform in the form of our
+                      IIT BHU fest to promote your brand.
+                    </li>
+                    <li
+                      style="
+                        margin: 0;
+                        padding: 0;
+                        box-sizing: border-box;
+                        font-family: sans-serif;
+                        line-height: 160%;
+                        text-align: justify;
+                        font-size: 16px;
+                        margin-left: 36px;
+                        text-justify: inter-word;
+                      "
+                    >
+                      Your brand will be explicitly mentioned on our official
+                      website as our
+                      <i
+                        style="
+                          margin: 0;
+                          padding: 0;
+                          box-sizing: border-box;
+                          font-family: sans-serif;
+                        "
+                        >Event partner </i
+                      >.
+                    </li>
+                    <li
+                      style="
+                        margin: 0;
+                        padding: 0;
+                        box-sizing: border-box;
+                        font-family: sans-serif;
+                        line-height: 160%;
+                        text-align: justify;
+                        font-size: 16px;
+                        margin-left: 36px;
+                        text-justify: inter-word;
+                      "
+                    >
+                      The demographics of the audience that you will be getting
+                      at this event are perfectly aligned with your target
+                      audience.
+                    </li>
+                    <li
+                      style="
+                        margin: 0;
+                        padding: 0;
+                        box-sizing: border-box;
+                        font-family: sans-serif;
+                        line-height: 160%;
+                        text-align: justify;
+                        font-size: 16px;
+                        margin-left: 36px;
+                        text-justify: inter-word;
+                      "
+                    >
+                      Students from all over India would be participating in our
+                      fest and it would be a perfect opportunity to promote your
+                      company through the prizes.
+                    </li>
+                    <li
+                      style="
+                        margin: 0;
+                        padding: 0;
+                        box-sizing: border-box;
+                        font-family: sans-serif;
+                        line-height: 160%;
+                        text-align: justify;
+                        font-size: 16px;
+                        margin-left: 36px;
+                        text-justify: inter-word;
+                      "
+                    >
+                      The resumes and contact details of all the participants
+                      would be shared with you.
+                    </li>
